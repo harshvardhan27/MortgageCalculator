@@ -1,0 +1,11 @@
+C:\Users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorClient\MortgageCalculatorTcpClient\bin\Debug\MortgageCalculatorTcpClient.exe.config
+C:\Users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorClient\MortgageCalculatorTcpClient\bin\Debug\MortgageCalculatorTcpClient.exe
+C:\Users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorClient\MortgageCalculatorTcpClient\bin\Debug\MortgageCalculatorTcpClient.pdb
+C:\Users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorClient\MortgageCalculatorTcpClient\obj\Debug\MortgageCalculatorTcpClient.csprojResolveAssemblyReference.cache
+C:\Users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorClient\MortgageCalculatorTcpClient\obj\Debug\MortgageCalculatorTcpClient.Form1.resources
+C:\Users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorClient\MortgageCalculatorTcpClient\obj\Debug\MortgageCalculatorTcpClient.Properties.Resources.resources
+C:\Users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorClient\MortgageCalculatorTcpClient\obj\Debug\MortgageCalculatorTcpClient.csproj.GenerateResource.Cache
+C:\Users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorClient\MortgageCalculatorTcpClient\obj\Debug\MortgageCalculatorTcpClient.exe
+C:\Users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorClient\MortgageCalculatorTcpClient\obj\Debug\MortgageCalculatorTcpClient.pdb
+C:\Users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorClient\MortgageCalculatorTcpClient\bin\Debug\MortgageCalculatorServiceLibrary.dll
+C:\Users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorClient\MortgageCalculatorTcpClient\bin\Debug\MortgageCalculatorServiceLibrary.pdb

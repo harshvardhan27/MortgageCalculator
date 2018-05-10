@@ -1,0 +1,6 @@
+c:\users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorServiceLibrary\MortgageCalculatorServiceLibrary\obj\Debug\MortgageCalculatorServiceLibrary.csprojResolveAssemblyReference.cache
+c:\users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorServiceLibrary\MortgageCalculatorServiceLibrary\bin\Debug\MortgageCalculatorServiceLibrary.dll.config
+c:\users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorServiceLibrary\MortgageCalculatorServiceLibrary\bin\Debug\MortgageCalculatorServiceLibrary.dll
+c:\users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorServiceLibrary\MortgageCalculatorServiceLibrary\bin\Debug\MortgageCalculatorServiceLibrary.pdb
+c:\users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorServiceLibrary\MortgageCalculatorServiceLibrary\obj\Debug\MortgageCalculatorServiceLibrary.dll
+c:\users\harsh\documents\visual studio 2015\Projects\MortgageCalculatorServiceLibrary\MortgageCalculatorServiceLibrary\obj\Debug\MortgageCalculatorServiceLibrary.pdb

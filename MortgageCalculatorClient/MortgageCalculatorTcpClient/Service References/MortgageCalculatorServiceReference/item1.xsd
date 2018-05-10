@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/MortgageCalculatorServiceLibrary" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/MortgageCalculatorServiceLibrary" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Mortgage">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Amortization" type="xs:int" />
+      <xs:element minOccurs="0" name="Down_Payment" type="xs:double" />
+      <xs:element minOccurs="0" name="Fees" type="xs:double" />
+      <xs:element minOccurs="0" name="GE_Premium" type="xs:double" />
+      <xs:element minOccurs="0" name="Interest_Rate" type="xs:double" />
+      <xs:element minOccurs="0" name="Monthly_Mortgage_Payment" type="xs:double" />
+      <xs:element minOccurs="0" name="Percent_Down" type="xs:double" />
+      <xs:element minOccurs="0" name="Pruchase_Price" type="xs:double" />
+      <xs:element minOccurs="0" name="Remaining_Mortgage" type="xs:double" />
+      <xs:element minOccurs="0" name="Taxes" type="xs:double" />
+      <xs:element minOccurs="0" name="Total_Financing" type="xs:double" />
+      <xs:element minOccurs="0" name="Total_Payment" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Mortgage" nillable="true" type="tns:Mortgage" />
+</xs:schema>

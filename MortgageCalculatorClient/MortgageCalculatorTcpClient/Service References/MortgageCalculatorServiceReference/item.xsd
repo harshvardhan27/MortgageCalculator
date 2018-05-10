@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:9200/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/MortgageCalculatorServiceLibrary" />
+  <xs:element name="ComputeMortgage">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="purchasePrice" type="xs:double" />
+        <xs:element minOccurs="0" name="interestRate" type="xs:double" />
+        <xs:element minOccurs="0" name="amortization" type="xs:int" />
+        <xs:element minOccurs="0" name="taxes" type="xs:double" />
+        <xs:element minOccurs="0" name="percentDown" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ComputeMortgageResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/MortgageCalculatorServiceLibrary" minOccurs="0" name="ComputeMortgageResult" nillable="true" type="q1:Mortgage" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
